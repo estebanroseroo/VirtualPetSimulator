@@ -1,4 +1,5 @@
-﻿Console.WriteLine("******* VIRTUAL PET SIMULATOR *******");
+﻿
+Console.WriteLine("******* VIRTUAL PET SIMULATOR *******");
 string[] pets = { "Dog", "Cat", "Fish", "Bird", "Hamster" };
 int noType = 0;
 string type = "";
